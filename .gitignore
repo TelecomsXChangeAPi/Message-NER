@@ -1,0 +1,6 @@
+src/BERT/training/utils/.DS_Store
+src/BERT/training/ner_model.pth
+src/BERT/training/converted_bert.npz
+src/BERT/training/ner-dataset.csv
+src/BERT/training/.DS_Store
+src/BERT/.DS_Store
